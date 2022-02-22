@@ -1,12 +1,14 @@
 div.container div.titulo h1 {
-    text-align: center;
+    text-align: left;
     font-size: 3em;
+    font-family:  Deutsch Gothic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .fondo{
-    background-color: #92daf0;
+    background-color: #fdfccf;
 }
 .parrafo{
-    text-align: center; 
-    font-size: 17px;
+    text-align: left; 
+    font-size: 18px;
     color: black;
 }
